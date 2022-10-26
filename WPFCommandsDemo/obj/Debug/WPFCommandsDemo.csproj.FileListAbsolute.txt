@@ -1,0 +1,16 @@
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csprojAssemblyReference.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\Views\MainWindow.g.cs
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\Views\App.g.cs
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo_MarkupCompile.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo_MarkupCompile.lref
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.exe.config
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.exe
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\bin\Debug\WPFCommandsDemo.pdb
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\Views\MainWindow.baml
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.g.resources
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.Properties.Resources.resources
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csproj.GenerateResource.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.csproj.CoreCompileInputs.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.exe
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\WPFCommandsDemo.pdb
+D:\hr\H_TEST\WPF_MVVM_TEST\WPFCommandsDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

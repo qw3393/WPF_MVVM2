@@ -1,0 +1,16 @@
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\bin\Debug\WPF_MVVM_TEST.exe.config
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\bin\Debug\WPF_MVVM_TEST.exe
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\bin\Debug\WPF_MVVM_TEST.pdb
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.csprojAssemblyReference.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST_MarkupCompile.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST_MarkupCompile.lref
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.g.resources
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.Properties.Resources.resources
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.csproj.GenerateResource.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.csproj.CoreCompileInputs.cache
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.exe
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\WPF_MVVM_TEST.pdb
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\Views\MainWindow.g.cs
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\Views\App.g.cs
+D:\hr\H_TEST\WPF_MVVM_TEST\WPF_MVVM_TEST\obj\Debug\Views\MainWindow.baml
